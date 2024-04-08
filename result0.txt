@@ -1,0 +1,46 @@
+email-univ
+    0.4526
+    0.5544
+1 Time Complete, Use 78.839996 s.
+    0.4430
+    0.5579
+2 Time Complete, Use 78.150002 s.
+    0.4286
+    0.5520
+3 Time Complete, Use 80.459999 s.
+    0.4292
+    0.5471
+4 Time Complete, Use 75.250000 s.
+    0.4487
+    0.5562
+5 Time Complete, Use 76.849998 s.
+    0.4387
+    0.5502
+6 Time Complete, Use 80.260002 s.
+    0.4368
+    0.5567
+7 Time Complete, Use 77.639999 s.
+    0.4273
+    0.5479
+8 Time Complete, Use 77.220001 s.
+    0.4421
+    0.5567
+9 Time Complete, Use 76.070000 s.
+    0.4408
+    0.5609
+10 Time Complete, Use 79.959999 s.
+    0.4366
+    0.5514
+11 Time Complete, Use 76.370003 s.
+    0.4675
+    0.5527
+12 Time Complete, Use 74.519997 s.
+    0.4479
+    0.5588
+13 Time Complete, Use 76.180000 s.
+    0.4356
+    0.5563
+14 Time Complete, Use 76.940002 s.
+    0.4445
+    0.5564
+15 Time Complete, Use 82.790001 s.
